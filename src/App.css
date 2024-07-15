@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.Songs figure{
+  width: 300px;
+  box-shadow: 0 0 10px black;
+  padding: 10px;
+  display: inline-block;
+
+}
+.Songs figure img{
+  width: 100%;
+}
+.Songs figure figcaption{
+  font-size: 30px;
+}
+video{
+  width: 600px;
+}
+.hanuman{
+  width: 500px;
+}
